@@ -1,0 +1,146 @@
+[
+    {
+        "id": 126,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=0.752xw:1.00xh;0.175xw,0&resize=1200:*",
+        "watchlist": [
+            {
+                "id": 153,
+                "date_picker": "2023-05-26",
+                "time_show_date": "06:15:00",
+                "price": 10,
+                "website": "http://bookingdoctor.online:3000/listmoviehttp://bookingdoctor.online:3000/listmovie",
+                "active": false,
+                "create_date": "2023-05-26T12:41:08.812509Z",
+                "platform": 126
+            },
+            {
+                "id": 152,
+                "date_picker": "2023-05-26",
+                "time_show_date": "10:00:00",
+                "price": 10,
+                "website": "http://bookingdoctor.online:3000/addmovie",
+                "active": true,
+                "create_date": "2023-05-25T15:43:54.177194Z",
+                "platform": 126
+            }
+        ],
+        "title": "Sphen Dinhhhh hhhhas dsads adasd sa dasd",
+        "description": "Howw can Ihelp uypou",
+        "show_date": "2023-05-26",
+        "time_show_date": "12:00:00",
+        "close_date": "2023-05-29",
+        "time_close_date": "12:00:00",
+        "active": true,
+        "create_date": "2023-05-25",
+        "titleNoti": "Hinton",
+        "summaryNoti": "Who are you?"
+    },
+    {
+        "id": 126,
+        "image": "https://stephenkiendinh.com/media/download.jpg",
+        "watchlist": [
+            {
+                "id": 153,
+                "date_picker": "2023-05-26",
+                "time_show_date": "06:15:00",
+                "price": 10,
+                "website": "http://bookingdoctor.online:3000/listmoviehttp://bookingdoctor.online:3000/listmovie",
+                "active": false,
+                "create_date": "2023-05-26T12:41:08.812509Z",
+                "platform": 126
+            },
+            {
+                "id": 152,
+                "date_picker": "2023-05-26",
+                "time_show_date": "10:00:00",
+                "price": 10,
+                "website": "http://bookingdoctor.online:3000/addmovie",
+                "active": true,
+                "create_date": "2023-05-25T15:43:54.177194Z",
+                "platform": 126
+            }
+        ],
+        "title": "Sphen Dinhhhh hhhhas dsads adasd sa dasd",
+        "description": "Howw can Ihelp uypou",
+        "show_date": "2023-05-26",
+        "time_show_date": "12:00:00",
+        "close_date": "2023-05-29",
+        "time_close_date": "12:00:00",
+        "active": true,
+        "create_date": "2023-05-25",
+        "titleNoti": "Hinton",
+        "summaryNoti": "Who are you?"
+    },
+    {
+        "id": 126,
+        "image": "https://stephenkiendinh.com/media/download.jpg",
+        "watchlist": [
+            {
+                "id": 153,
+                "date_picker": "2023-05-26",
+                "time_show_date": "06:15:00",
+                "price": 10,
+                "website": "http://bookingdoctor.online:3000/listmoviehttp://bookingdoctor.online:3000/listmovie",
+                "active": false,
+                "create_date": "2023-05-26T12:41:08.812509Z",
+                "platform": 126
+            },
+            {
+                "id": 152,
+                "date_picker": "2023-05-26",
+                "time_show_date": "10:00:00",
+                "price": 10,
+                "website": "http://bookingdoctor.online:3000/addmovie",
+                "active": true,
+                "create_date": "2023-05-25T15:43:54.177194Z",
+                "platform": 126
+            }
+        ],
+        "title": "Sphen Dinhhhh hhhhas dsads adasd sa dasd",
+        "description": "Howw can Ihelp uypou",
+        "show_date": "2023-05-26",
+        "time_show_date": "12:00:00",
+        "close_date": "2023-05-29",
+        "time_close_date": "12:00:00",
+        "active": true,
+        "create_date": "2023-05-25",
+        "titleNoti": "Hinton",
+        "summaryNoti": "Who are you?"
+    },
+    {
+        "id": 126,
+        "image": "https://stephenkiendinh.com/media/download.jpg",
+        "watchlist": [
+            {
+                "id": 153,
+                "date_picker": "2023-05-26",
+                "time_show_date": "06:15:00",
+                "price": 10,
+                "website": "http://bookingdoctor.online:3000/listmoviehttp://bookingdoctor.online:3000/listmovie",
+                "active": false,
+                "create_date": "2023-05-26T12:41:08.812509Z",
+                "platform": 126
+            },
+            {
+                "id": 152,
+                "date_picker": "2023-05-26",
+                "time_show_date": "10:00:00",
+                "price": 10,
+                "website": "http://bookingdoctor.online:3000/addmovie",
+                "active": true,
+                "create_date": "2023-05-25T15:43:54.177194Z",
+                "platform": 126
+            }
+        ],
+        "title": "Sphen Dinhhhh hhhhas dsads adasd sa dasd",
+        "description": "Howw can Ihelp uypou",
+        "show_date": "2023-05-26",
+        "time_show_date": "12:00:00",
+        "close_date": "2023-05-29",
+        "time_close_date": "12:00:00",
+        "active": true,
+        "create_date": "2023-05-25",
+        "titleNoti": "Hinton",
+        "summaryNoti": "Who are you?"
+    }
+]
